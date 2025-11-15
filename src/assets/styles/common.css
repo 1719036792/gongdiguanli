@@ -1,0 +1,20 @@
+/**
+ * 全局通用样式
+ */
+
+/* 设置所有el-select组件宽度 */
+.el-select {
+  width: 180px !important;
+}
+
+/* 设置el-date-picker组件宽度 */
+.el-date-editor.el-input, 
+.el-date-editor.el-input__wrapper,
+.el-date-editor--daterange {
+  width: 260px !important;
+}
+
+/* 确保下拉选项宽度与选择框匹配 */
+.el-select__popper {
+  min-width: 180px !important;
+} 
