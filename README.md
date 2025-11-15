@@ -1,6 +1,8 @@
 # gongdiguanli
 项目概述：
 这是一个基于Spring Boot和Vue的工地管理系统（Construction Management System, CMS），旨在实现建筑工地的数字化管理，提升施工效率、人员调度与资源协调能力。系统面向工人、项目经理和管理员三类用户，覆盖从登录认证到项目执行、任务分配、请假审批、后勤保障及数据监控的全流程管理。
+需要项目可以添加小羊微信 微信：ShaunXiaoYangOvO 或关注小红书账号：95677443851
+<img width="509" height="365" alt="image" src="https://github.com/user-attachments/assets/775371b4-9476-4bcf-b312-5282f00ff2bd" />
 技术栈
 后端技术栈
 主框架: Spring Boot 2.5.4
@@ -81,5 +83,4 @@ UI: 原生CSS + Vue组件
 <img width="1863" height="942" alt="微信图片_20251115113555_76_111" src="https://github.com/user-attachments/assets/cefb92af-2d53-41fa-b454-f6493fdf4da8" />
 <img width="1863" height="942" alt="微信图片_20251115113555_76_111" src="https://github.com/user-attachments/assets/e90dece1-1d68-4567-adbd-6d79c92daad8" />
 <img width="1863" height="942" alt="微信图片_20251115113555_76_111" src="https://github.com/user-attachments/assets/97f47642-f47b-44d0-8be8-d468090c4a0f" />
-需要项目可以添加小羊微信 微信：ShaunXiaoYangOvO 或关注小红书账号：95677443851
-<img width="509" height="365" alt="image" src="https://github.com/user-attachments/assets/775371b4-9476-4bcf-b312-5282f00ff2bd" />
+
